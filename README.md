@@ -1,1 +1,1 @@
-# flask_news_web
+# 使用Flask做的一个新闻小项目
